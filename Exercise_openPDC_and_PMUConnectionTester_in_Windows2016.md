@@ -471,7 +471,7 @@ C:\Users\Administrator> ping time.nist.gov
 
 ---
 
-Dec 19, 2016 - Created by [aj](https://github.com/ajstadlin), version 1.0
+Dec 19, 2016 - Created by [aj](https://github.com/ajstadlin), version 1.0  
 Dec 30, 2016 - Updated by [aj](https://github.com/ajstadlin), version 1.1
 
 ---
