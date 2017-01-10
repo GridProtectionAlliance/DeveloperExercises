@@ -9,6 +9,7 @@ If you find any problems, missing critical details, or bad practices in these pr
 ## Common
 
 - [GPA Developer Workstation](Exercise_GPA_Developer_Workstation.md)
+- [GitHub For Workflow](Exercise_GitHub_Fork.md)
 
 ## Grid Solutions Framework
 
