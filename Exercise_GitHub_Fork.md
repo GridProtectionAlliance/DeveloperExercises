@@ -2,13 +2,13 @@
 |---|---|
 | **[Grid Protection Alliance](http://www.gridprotectionalliance.org "Grid Protection Alliance Home Page")** | **[Exercises](README.md)** |
 
-***This document is an exercise procedure for illustrating workflow methods.***
+***This document is an example procedure for illustrating workflow methods.***
 
 ---
 
-# GitHub Fork Exercise
+# GitHub Fork Example
 
-This is a *cookbook recipe* style exercise that illustrates GitHub forked project workflow methods.
+This is an *example* style exercise that illustrates GitHub forked project workflow methods. Although the exact exercise is not repeatable because it refers to specific accounts and repositories, the general concepts and methodology of this exercise are repeatable.
 
 - [Platform](#platform)
     - [GitHub.com Account](#githubcom-account)
